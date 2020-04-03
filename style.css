@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 300;
+  }
+
+.sct-one{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 789px;
+}
+.onetwo{
+    float: left;
+    width: 37%;
+
+}
+#onetwo-one{
+    padding-left: 16%;
+    padding-top: 200px;
+}
+#onetwo-two{
+    padding-top: 100px;
+    padding-right: 5%;
+}
+.onetwo-two-imgs{
+    height: 100%;
+    width: 100%;
+}
+
+
+.sct-two{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    padding: 8%;
+    background-size: cover;
+    height: 789px;
+}
+.twoone{
+    float: left;
+    height: 600px;
+    width: 35%;
+}
+.twoone-one-imgs{
+    height: 100%;
+    width: 100%;
+
+}
+#twoone-one{
+    padding-top: 10px;
+    padding-left: 4%;
+    padding-bottom: 200px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #EA4B74;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+#twoone-two{
+    padding-top: 200px;
+    padding-left: 25%;
+
+
+}
+.sct-three{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 789px;
+    padding-top: 4%;
+    padding-left: 10%;
+    margin-top: 6%;
+}
+#three-i-head{
+    font-weight: 800;
+    padding-left: 32%;
+    padding-bottom: 75px;
+}
+.three-one{
+    width: 30%;
+    float: left;
+}
+.three-one img{
+    height: 100%;
+    width: 100%;
+}
+
+.sct-four{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 789px;
+    text-align: center;
+}
+#four-one{
+    padding-top: 50px;
+}
+#four-two{
+    padding-top: 40px;
+}
+#four-two-gry{
+    color: dimgray;
+    font-size: 15px;
+}
+#four-three{
+    padding-top: 10px;
+}
+#four-four{
+    padding-top: 40px;
+    
+}
+.mail-area{
+    margin-top: 80px;
+    margin-left: 350px;
+    margin-right: 350px ;
+    background-color: #EA4B74;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 50;
+    color: white
+}
+#last{
+    text-align: center;
+    color: dimgray;
+}

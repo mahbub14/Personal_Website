@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.bg-one{
+    background-image: url(images/header-bg.png);
+    width: 100%;
+}
+.change-one{
+    width: 35%;
+    float: left;
+
+}
+.change-one img{
+    width: 100%;
+}
+#tweet{
+    padding-left: 23%;
+    padding-top: 22%;
+   
+}
+#test{
+padding-right: 2%;
+padding-top: 10%;
+}
+.change-one-head-light{
+    font-weight: lighter;
+}
+
+.change-one-head{
+    color: #EA4B74;
+    font-size: 50px;
+    font-weight: bolder;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    color:dimgray;
+}
+
+.orange-highlight{
+color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, lightSalmon, Tomato);
+    font-weight: 700;
+    color: white;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, lightSalmon, Tomato);
+    font-weight: 700;
+    color: white;
+    
+}
+
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon,Tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
